@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esengun
-- 👀 I’m interested in augmented reality, game dev and simulation using Unity 3D
+- 👀 I’m interested in AR/VR, game dev and simulation using Unity 3D
 - 📫 Reach me via m.esengun@hotmail.com
 
 <!---
