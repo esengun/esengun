@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @esengun
-- 👀 I’m a software engineer, interested in backend development with .Net, Augmented/Virtual Reality mobile applications, and simulation using Unity 3D.
+- 👀 I’m a software engineer, interested in backend development with .Net, CI/CD with docker, Augmented/Virtual Reality mobile applications, and simulation using Unity 3D.
+- 🚀 I am passionate about learning new technologies, languages and tools.
 - 📫 Reach me via m.esengun@hotmail.com
 
 <!---
